@@ -1,4 +1,13 @@
-# 💫 About Me:
+# <p align="center">
+  <img src="https://i.ibb.co.com/hv51bFH/github.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Plabon Das</h1>
+<h3 align="center">Mern Stack Developer | React & Next.js Enthusiast</h3>
+
+--- 
+
+💫 About Me:
 🔭 I’m currently working on Web Development Projects<br>🌱 I’m currently learning React.js<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about ... Web Development<br>📫 How to reach me: Email:-plabondas001@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I Love Code
 
 
