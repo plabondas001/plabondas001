@@ -24,7 +24,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=plabondas001&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=plabondas001&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
